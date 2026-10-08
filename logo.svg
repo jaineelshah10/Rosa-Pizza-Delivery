@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="72" height="72" role="img" aria-label="Rosa's Pizza logo">
+  <circle cx="50" cy="50" r="46" fill="#1A1F2B" stroke="#4DA3FF" stroke-width="3"/>
+  <!-- pizza slice: crust arc on top, point at bottom -->
+  <path d="M50 84 L20 34 Q50 18 80 34 Z" fill="#F5B83D" stroke="#C98A1B" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M20 34 Q50 18 80 34" fill="none" stroke="#D9822B" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="42" cy="46" r="5" fill="#D64545"/>
+  <circle cx="58" cy="44" r="5" fill="#D64545"/>
+  <circle cx="50" cy="62" r="4.5" fill="#D64545"/>
+</svg>
